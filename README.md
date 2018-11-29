@@ -1,2 +1,2 @@
-# totonewsBOT
-Totonews BOT legit
+# totonews
+bot aplikasi ToTo News Gunakan dengan bijak
